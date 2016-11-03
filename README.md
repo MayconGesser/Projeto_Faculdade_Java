@@ -1,3 +1,4 @@
-# Trabalhos desenvolvidos ao longo de diferentes disciplinas
+# Sistema de chamados
 
-Aqui constam alguns trabalhos meus desenvolvidos em Java, como atividades para várias disciplinas no curso de Sistemas de Informação.
+Trabalho final da disciplina de Desenvolvimento de Sistemas Orientados a Objetos I, cursada no semestre 2015-2. 
+Obs: O trabalho não foi desenvolvido inteiramente apenas por mim, cabendo crédito também a meus colegas Bruno Peres Schneider, Richard Bertozzo e Rodolfo Dartora. 
