@@ -1,4 +1,3 @@
-# Trabalho Final DSOO I
-Um sistema de chamados em Java feito como trabalho final da disciplina de Desenvolvimento de Sistemas Orientados a Objetos I
+# Trabalhos desenvolvidos no curso de diferentes disciplinas
 
-Obs: O trabalho não foi feito inteiramente por mim, cabendo crédito também aos meus colegas Richard Bertozzo Junior, Bruno Peres Schneider e Rodolfo Dartora da Silva. 
+Aqui constam alguns trabalhos desenvolvidos em Java, como atividades para várias disciplinas no curso de Sistemas de Informação.
